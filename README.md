@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Owen Covach
+- 👀 I’m interested in Video Games like Rocket league, but also Coding
+- 🌱 I’m currently learning Computer science at Conestoga College
+- 💞️ I’m looking to collaborate on Coding Projects
+- 📫 How to reach me: Ocovach4831@conestogac.on.ca
